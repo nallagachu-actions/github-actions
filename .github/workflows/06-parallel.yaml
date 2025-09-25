@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest # Linux OS. We can have windows or MAC
     steps: # stages
       - name: step1
-        run: echo "Hi, I am from job-3"
+        run: echo "Hii,I am from job-3"
